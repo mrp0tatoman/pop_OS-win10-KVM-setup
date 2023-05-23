@@ -1,5 +1,5 @@
 "name": "pop_OS-win10-KVM-setup"
-"version": "1.0.0",
+"version": "1",
 "description": "",
 "scripts": {
 "build": "echo \"No build specified\" && exit 1",
